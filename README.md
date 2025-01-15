@@ -1,7 +1,7 @@
-##Project Overview:
+# Project Overview:
 The goal of this project is to implement a deep learning model for image classification using TensorFlow with the CIFAR-10 dataset. The model is built using Convolutional Neural Networks (CNNs) for classifying images into one of 10 categories (e.g., airplane, automobile, bird, etc.).
 
-##Steps Involved:
+# Steps Involved:
 Dataset: The CIFAR-10 dataset is used, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 Preprocessing:
 Normalize the pixel values of images (scale them to [0,1]).
@@ -16,7 +16,7 @@ Plot the accuracy and loss curves during training.
 Results Visualization:
 Show example images from the test set with predicted and actual labels.
 Display visualizations of model performance (accuracy and loss curves).
-##Key Objectives:
+# Key Objectives:
 Model Design:
 
 Implement a CNN model using TensorFlow.
